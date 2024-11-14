@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Tracking -->
+  <remote name="github" fetch="https://github.com" />
+
+  <!-- Device tree -->
+  <project name="felipeskyy/android_device_motorola_guamp" path="device/motorola/guamp" remote="github" revision="lineage-21" />
+  <project name="felipeskyy/android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="github" revision="lineage-21" />
+
+  <!-- Vendor tree -->
+  <project name="felipeskyy/vendor_motorola_guamp" path="vendor/motorola/guamp" remote="github" revision="lineage-21" />
+  <project name="felipeskyy/vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" remote="github" revision="lineage-21" />
+
+  <!-- Kernel source -->
+  <project name="LineageOS/android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="github" revision="lineage-21" />
+
+  <!-- Hardware -->
+  <project name="felipeskyy/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21" />
+</manifest>
+
