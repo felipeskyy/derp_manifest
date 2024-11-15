@@ -31,38 +31,12 @@ The source at DerpFest is well configured for building.
 ```
 **Prepare your device with:**
 ```bash
-lunch derp_$guamp-user
+lunch derp_guamp-userdebug
 ```
 **Then fire it off with:**
 ```bash
 mka derp
 ```
-
-Thanks section
----------------
-
-Here's my thanks to people who made this possible:
-
-* ABC
-* AICP
-* AOSiP
-* AOSPA
-* ArrowOS
-* Bianca Project
-* BootleggersROM
-* CyanogenMod/LineageOS
-* DirtyUnicorns
-* NitrogenOS
-* Nusantara-ROM
-* OmniROM
-* PixelExperience
-* POSP
-* Project Fluid
-* Project Kaleidoscope
-* RiceDroid
-* ShapeShiftOS
-* Syberia Project
-* YAAP
 
 Using our assets
 ---------------
